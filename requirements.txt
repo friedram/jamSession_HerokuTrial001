@@ -57,7 +57,7 @@ misaka==2.1.1
 
 pillow==9.1.1
 #==pypi_0
-pip==21.2.4
+#pip==21.2.4
 #==pypi_0
 psycopg2==2.8.6
 #==pypi_0

@@ -32,7 +32,7 @@ faker==13.14.0
 #==pypi_0
 # might have had issues installing
 #krb5==1.19.2==hcd88c3b_0
-krb5-multidev==1.19.2
+krb5-multidev==1.19.2-2
 #could not find the following
 libcxx==12.0.0
 #==h2f01273_0

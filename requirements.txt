@@ -71,7 +71,7 @@ pytz==2022.1
 #==pypi_0
 
 # may have had an issue
-readline==8.1.2
+#readline==8.1.2
 #==hca72f7f_1
 
 

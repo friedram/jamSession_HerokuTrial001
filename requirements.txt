@@ -15,10 +15,9 @@ bcrypt==3.2.2
 beautifulsoup4==4.11.1
 #=pypi_0
 #can't find bzip2
-bzip2==1.0.8
-#==h1de35cc_0
+#bzip2==1.0.8==h1de35cc_0
 #can't find ca-certificates
-ca-certificates==2022.4.26
+#ca-certificates==2022.4.26
 #==hecd8cb5_0
 certifi==2022.6.15
 #==pypi_0

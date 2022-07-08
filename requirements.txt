@@ -48,7 +48,8 @@ faker==13.14.0
 #could not find the following
 misaka==2.1.1
 #==pypi_0
-ncurses==6.3
+
+#ncurses==6.3
 #==hca72f7f_2
 openssl==1.1.1o
 #==hca72f7f_0

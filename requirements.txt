@@ -3,7 +3,7 @@
 # platform: osx-64
 # also platform windows? :D
 django>=4.0, <5.0
-guincorn
+gunicorn
 django-heroku
 
 argon2-cffi=21.3.0=pypi_0

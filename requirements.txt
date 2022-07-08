@@ -83,7 +83,7 @@ soupsieve==2.3.2.post1
 #==pypi_0
 
 # could not find
-sqlite==3.38.3
+#sqlite==3.38.3
 #==h707629a_0
 
 
@@ -99,7 +99,7 @@ wheel==0.37.1
 #==pyhd3eb1b0_0
 
 #could not find
-xz==5.2.5
+#xz==5.2.5
 #==hca72f7f_1
-zlib==1.2.12
+#zlib==1.2.12
 #==h4dc903c_2

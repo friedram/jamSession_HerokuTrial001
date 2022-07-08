@@ -10,7 +10,8 @@ django-heroku
 #argon2-cffi==21.3.0=pypi_0
 #argon2-cffi-bindings==21.2.0==pypi_0
 #asgiref==3.4.1==pyhd3eb1b0_0
-bcrypt==3.2.2==pypi_0
+bcrypt==3.2.2
+#==pypi_0
 beautifulsoup4==4.11.1==pypi_0
 #can't find bzip2
 bzip2==1.0.8==h1de35cc_0

@@ -34,13 +34,15 @@ faker==13.14.0
 #krb5==1.19.2==hcd88c3b_0
 ##krb5-multidev==1.19.2-2
 #could not find the following
-libcxx==12.0.0
+
+
+#libcxx==12.0.0
 #==h2f01273_0
-libedit==3.1.20210910
+#libedit==3.1.20210910
 #==hca72f7f_0
-libffi==3.3
+#libffi==3.3
 #==hb1e8313_2
-libpq==12.9
+#libpq==12.9
 #==h1c9f633_2
 
 #could not find the following

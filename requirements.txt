@@ -1,7 +1,11 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: osx-64
-# also platform windows? :D 
+# also platform windows? :D
+django>=4.0, <5.0
+guincorn
+django-heroku
+
 argon2-cffi=21.3.0=pypi_0
 argon2-cffi-bindings=21.2.0=pypi_0
 asgiref=3.4.1=pyhd3eb1b0_0
@@ -13,7 +17,7 @@ bzip2=1.0.8=h1de35cc_0
 ca-certificates=2022.4.26=hecd8cb5_0
 certifi=2022.6.15=pypi_0
 cffi=1.15.0=pypi_0
-django=3.2.5=pyhd3eb1b0_0
+#django=3.2.5=pyhd3eb1b0_0
 django-bootstrap4=22.1=pypi_0
 django-braces=1.15.0=pypi_0
 faker=13.14.0=pypi_0

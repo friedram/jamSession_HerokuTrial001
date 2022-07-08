@@ -51,7 +51,7 @@ misaka==2.1.1
 
 #ncurses==6.3
 #==hca72f7f_2
-openssl==1.1.1o
+#openssl==1.1.1o
 #==hca72f7f_0
 
 

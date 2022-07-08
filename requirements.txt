@@ -63,7 +63,7 @@ psycopg2==2.8.6
 #==pypi_0
 pycparser==2.21
 #==pypi_0
-python==3.10.4
+#python==3.10.4
 #==hdfd78df_0
 python-dateutil==2.8.2
 #==pypi_0
